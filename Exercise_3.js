@@ -17,7 +17,7 @@ class LinkedList {
         }
     }
 ​
-     // Method to insert a new node
+     //  Method to insert a new node
     insert(list, data) {
         // Create a new node with given data
        const newNode = new LinkedList.Node(data);
